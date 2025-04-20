@@ -2,7 +2,7 @@
 
 * Студент: [Мичил Петров](https://up.htmlacademy.ru/htmlcss-individual/2/user/2645561).
 * Наставник: [Амина Омарова](https://htmlacademy.ru/profile/ami).
-
+* Сайт: [Мой проект Седона](https://michilpetrov.github.io/2645561-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
