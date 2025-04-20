@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Мичил Петров](https://up.htmlacademy.ru/htmlcss-individual/2/user/2645561).
-* Наставник: `Неизвестно`.
+* Наставник: [Амина Омарова](https://htmlacademy.ru/profile/ami).
 
 ---
 
